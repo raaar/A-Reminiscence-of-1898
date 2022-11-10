@@ -36,6 +36,7 @@ h1 {
 	font-size: 1.95552rem;
 	line-height: 1.2141rem;
 	margin-bottom: 0.5rem;
+	margin-top: 3rem;
 }
 
 h2 {
@@ -48,14 +49,6 @@ h2 {
 p {
 	margin-bottom: 10px;
 	font-size: 1.1rem;
-}
-
-img {
-	width: 100%;
-}
-
-pre {
-	overflow: auto;
 }
 
 .center {
