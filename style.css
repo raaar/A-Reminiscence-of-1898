@@ -49,6 +49,7 @@ h2 {
 p {
 	margin-bottom: 10px;
 	font-size: 1.1rem;
+	text-indent: 1.5rem;
 }
 
 .center {
@@ -56,4 +57,12 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
+}
+
+.m-0 {
+	margin: 0;
+}
+
+.mb-0 {
+	margin-bottom: 0;
 }
